@@ -1,3 +1,7 @@
+ChatConsole/bin
+ChatConsole/obj
+
+
 # JetBrains Rider
 .idea/
 *.sln.iml
