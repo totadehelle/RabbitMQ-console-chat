@@ -1,0 +1,11 @@
+/home/alter/RiderProjects/ChatConsole/ChatConsole/bin/Debug/netcoreapp2.2/ChatConsole.deps.json
+/home/alter/RiderProjects/ChatConsole/ChatConsole/bin/Debug/netcoreapp2.2/ChatConsole.runtimeconfig.json
+/home/alter/RiderProjects/ChatConsole/ChatConsole/bin/Debug/netcoreapp2.2/ChatConsole.runtimeconfig.dev.json
+/home/alter/RiderProjects/ChatConsole/ChatConsole/bin/Debug/netcoreapp2.2/ChatConsole.dll
+/home/alter/RiderProjects/ChatConsole/ChatConsole/bin/Debug/netcoreapp2.2/ChatConsole.pdb
+/home/alter/RiderProjects/ChatConsole/ChatConsole/obj/Debug/netcoreapp2.2/ChatConsole.csprojAssemblyReference.cache
+/home/alter/RiderProjects/ChatConsole/ChatConsole/obj/Debug/netcoreapp2.2/ChatConsole.csproj.CoreCompileInputs.cache
+/home/alter/RiderProjects/ChatConsole/ChatConsole/obj/Debug/netcoreapp2.2/ChatConsole.AssemblyInfoInputs.cache
+/home/alter/RiderProjects/ChatConsole/ChatConsole/obj/Debug/netcoreapp2.2/ChatConsole.AssemblyInfo.cs
+/home/alter/RiderProjects/ChatConsole/ChatConsole/obj/Debug/netcoreapp2.2/ChatConsole.dll
+/home/alter/RiderProjects/ChatConsole/ChatConsole/obj/Debug/netcoreapp2.2/ChatConsole.pdb
